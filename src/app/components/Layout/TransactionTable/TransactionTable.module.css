@@ -1,0 +1,9 @@
+.Table {
+  padding: 2rem;
+}
+
+.Table__tr,
+.Table__td {
+  padding: 1rem;
+  border: 1px solid #333;
+}
